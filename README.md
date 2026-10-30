@@ -82,7 +82,7 @@ pnpm build
 
 <img width="3770" height="1962" alt="image" src="https://github.com/user-attachments/assets/db38a0d1-7c20-42c2-b7c8-f01879bfaa60" />
 
-
+<img width="3777" height="1957" alt="image" src="https://github.com/user-attachments/assets/be9fe840-b396-474e-9d32-35ba6212d3dd" />
 
 
 ## Deploy to Vercel link:
