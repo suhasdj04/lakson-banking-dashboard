@@ -1,0 +1,10 @@
+{
+  "name": "lakson-banking-dashboard",
+  "private": true,
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {
+    "dev": "pnpm --filter lakson-dashboard dev",
+    "build": "pnpm --filter lakson-dashboard build",
+    "typecheck": "pnpm --filter lakson-dashboard typecheck"
+  }
+}
