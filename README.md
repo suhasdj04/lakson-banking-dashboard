@@ -75,12 +75,18 @@ Build and type-check the frontend with:
 ```bash
 pnpm build
 ```
+##Snapshots
+<img width="3775" height="1955" alt="image" src="https://github.com/user-attachments/assets/1321791b-add8-452a-ac77-276069ef3613" />
 
-## Deploy to Vercel
+<img width="3792" height="1975" alt="image" src="https://github.com/user-attachments/assets/a44d4630-cab5-462a-ace5-e4058639b990" />
 
-The repository includes `vercel.json`, which deploys the Vite frontend and the FastAPI backend together as one Vercel project using [Vercel Services](https://vercel.com/docs/services). The `/api/*` paths are routed to FastAPI and everything else to the static frontend.
+<img width="3770" height="1962" alt="image" src="https://github.com/user-attachments/assets/db38a0d1-7c20-42c2-b7c8-f01879bfaa60" />
 
-```bash
-vercel deploy --prod
-```
+
+
+
+## Deploy to Vercel link:
+https://lakson-banking-dashboard.vercel.app
+
+
 
