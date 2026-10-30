@@ -75,3 +75,12 @@ Build and type-check the frontend with:
 ```bash
 pnpm build
 ```
+
+## Deploy to Vercel
+
+The repository includes `vercel.json`, which deploys the Vite frontend and the FastAPI backend together as one Vercel project using [Vercel Services](https://vercel.com/docs/services). The `/api/*` paths are routed to FastAPI and everything else to the static frontend.
+
+```bash
+vercel deploy --prod
+```
+
